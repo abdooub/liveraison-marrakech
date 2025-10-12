@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /script.js
+Disallow: /.htaccess
+
+Sitemap: https://www.livraisonmarrakech26.com/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
